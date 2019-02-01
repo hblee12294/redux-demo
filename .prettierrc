@@ -1,6 +1,6 @@
 {
   "eslintIntegration": true,
   "semi": false,
-  "bracketSpacing": true,
+  "bracketSpacing": false,
   "singleQuote": true
 }

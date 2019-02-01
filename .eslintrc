@@ -17,6 +17,7 @@
     "no-redeclare": 2,
     "semi": [1, "never"],
     "no-this-before-super": 0,
-    "no-trailing-spaces": 1
+    "no-trailing-spaces": 1,
+    "object-curly-spacing": 1
   }
 }
